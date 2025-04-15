@@ -18,3 +18,19 @@ Check out the live site here:
 - CSS3
 
 ## 📂 Folder Structure
+
+
+## 📸 Preview
+![LuxeBite Preview](https://luxe-bite-restaurant.vercel.app/preview-image.jpg) <!-- Optional: Replace with your own preview image link -->
+
+## 🤝 Contributing
+Feel free to fork the project, make changes, and submit a pull request.
+
+## 📧 Contact
+For any inquiries or feedback, reach out via GitHub Issues or open a discussion.
+
+---
+
+Give it a ⭐ if you like the project!
+
+
