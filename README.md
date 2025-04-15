@@ -17,12 +17,6 @@ Check out the live site here:
 - HTML5
 - CSS3
 
-## 📂 Folder Structure
-
-
-## 📸 Preview
-![LuxeBite Preview](https://luxe-bite-restaurant.vercel.app/preview-image.jpg) <!-- Optional: Replace with your own preview image link -->
-
 ## 🤝 Contributing
 Feel free to fork the project, make changes, and submit a pull request.
 
